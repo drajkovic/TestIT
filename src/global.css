@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --paragraph-paragraph-16-regular: Roboto;
+  --paragraph-paragraph-16-bold: Montserrat;
+
+  /* font sizes */
+  --paragraph-paragraph-16-regular-size: 16px;
+  --paragraph-paragraph-20-regular-size: 20px;
+  --paragraph-paragraph-18-regular-size: 18px;
+  --heading-heading-3-size: 36px;
+  --heading-heading-4-size: 30px;
+  --font-size-5xl: 24px;
+  --heading-heading-1-size: 50px;
+  --font-size-21xl: 40px;
+  --heading-heading-2-size: 42px;
+  --font-size-6xl: 25px;
+  --font-size-15xl: 34px;
+  --paragraph-paragraph-14-bold-size: 14px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-white: #fff;
+  --neutrals-body: #1d2939;
+  --color-gray-100: #202022;
+  --body-dark: #101828;
+  --neutral-neutral-50: #f9fafb;
+  --neutral-neutral-100: #f2f4f7;
+  --neutrals-neutral-200: #eaecf0;
+  --primary-red-500-main: #e6094c;
+  --neutrals-neutral-300: #d0d5dd;
+  --color-deeppink-100: #ff3073;
+  --color-deeppink-200: rgba(255, 48, 115, 0.09);
+
+  /* Gaps */
+  --gap-37xl: 56px;
+  --gap-13xl: 32px;
+  --gap-36xl: 55px;
+  --gap-xl: 20px;
+  --gap-xs: 12px;
+  --gap-29xl: 48px;
+  --gap-base: 16px;
+  --gap-5xs: 8px;
+  --gap-5xl: 24px;
+  --gap-101xl: 120px;
+  --gap-61xl: 80px;
+  --gap-21xl: 40px;
+  --gap-0: 0px;
+  --gap-3xl-5: 22.5px;
+  --gap-9xs: 4px;
+
+  /* Paddings */
+  --padding-29xl: 48px;
+  --padding-xl: 20px;
+  --padding-11xs: 2px;
+  --padding-101xl: 120px;
+  --padding-59xl: 78px;
+  --padding-14xl: 33px;
+  --padding-32xl: 51px;
+  --padding-41xl: 60px;
+  --padding-11xl: 30px;
+  --padding-4xs: 9px;
+  --padding-5xs: 8px;
+  --padding-5xl: 24px;
+  --padding-33xl: 52px;
+  --padding-smi: 13px;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+}

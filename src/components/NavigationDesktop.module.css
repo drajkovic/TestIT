@@ -1,0 +1,313 @@
+.layerContainer {
+  position: relative;
+  line-height: 20px;
+}
+.navigationDesktopvariant4 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.buttonBase,
+.navItem {
+  display: flex;
+  align-items: center;
+}
+.buttonBase {
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.navItem {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.text {
+  position: relative;
+  line-height: 20px;
+}
+.chevronDownIcon {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 20px;
+}
+.buttonBase1,
+.navItem1 {
+  display: flex;
+  align-items: center;
+}
+.buttonBase1 {
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.navItem1 {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.text1 {
+  position: relative;
+  line-height: 20px;
+}
+.navigationDesktopvariant41 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.buttonBase2,
+.navItem2 {
+  display: flex;
+  align-items: center;
+}
+.buttonBase2 {
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.navItem2 {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.text2 {
+  position: relative;
+  line-height: 20px;
+  white-space: nowrap;
+}
+.chevronDownIcon1 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 20px;
+}
+.buttonBase3,
+.left,
+.navItem3 {
+  display: flex;
+  align-items: center;
+}
+.buttonBase3 {
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.left,
+.navItem3 {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.left {
+  width: 564px;
+  flex-direction: row;
+  padding: var(--padding-xl) 0;
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.plLogo1Icon {
+  height: 72px;
+  width: 72px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.plLogo {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameContent {
+  position: relative;
+  line-height: 20px;
+  white-space: nowrap;
+}
+.chevronDownIcon2 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 20px;
+}
+.buttonBase4,
+.navItem4 {
+  display: flex;
+  align-items: center;
+}
+.buttonBase4 {
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.navItem4 {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.text3 {
+  position: relative;
+  line-height: 20px;
+}
+.chevronDownIcon3 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 20px;
+}
+.buttonBase5,
+.navItem5 {
+  display: flex;
+  align-items: center;
+}
+.buttonBase5 {
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.navItem5 {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.text4 {
+  position: relative;
+  line-height: 20px;
+}
+.chevronDownIcon4 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 20px;
+}
+.buttonBase6,
+.links,
+.navItem6 {
+  display: flex;
+  align-items: center;
+}
+.buttonBase6 {
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.links,
+.navItem6 {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.links {
+  flex-direction: row;
+  justify-content: flex-end;
+  gap: var(--gap-3xl-5);
+}
+.materialIcons,
+.materialIcons1,
+.materialIcons2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+}
+.materialIcons2 {
+  height: 20px;
+  width: 20px;
+  min-height: 20px;
+}
+.heading {
+  width: 41px;
+  position: relative;
+  font-size: var(--paragraph-paragraph-14-bold-size);
+  line-height: 20px;
+  display: inline-block;
+  font-family: var(--paragraph-paragraph-16-bold);
+  color: var(--primary-red-500-main);
+  text-align: center;
+  white-space: nowrap;
+}
+.buttons {
+  cursor: pointer;
+  border: 1px solid var(--primary-red-500-main);
+  padding: var(--padding-5xs) var(--padding-smi);
+  background-color: transparent;
+  width: 97px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xs);
+}
+.buttons:hover {
+  background-color: var(--color-deeppink-200);
+  border: 1px solid var(--color-deeppink-100);
+  box-sizing: border-box;
+}
+.right1 {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.icons,
+.mainNavigation,
+.navigationDesktop,
+.right,
+.right1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.icons {
+  width: 193px;
+  justify-content: flex-end;
+}
+.mainNavigation,
+.navigationDesktop,
+.right {
+  max-width: 100%;
+}
+.right {
+  width: 564px;
+  justify-content: flex-end;
+  gap: var(--gap-29xl);
+}
+.mainNavigation,
+.navigationDesktop {
+  box-sizing: border-box;
+  justify-content: center;
+}
+.mainNavigation {
+  flex: 1;
+  background-color: var(--neutral-neutral-50);
+  border-bottom: 1px solid var(--neutral-neutral-100);
+  padding: 0 var(--padding-xl);
+  gap: var(--gap-0);
+  row-gap: 20px;
+}
+.navigationDesktop {
+  align-self: stretch;
+  border-bottom: 1px solid var(--neutrals-neutral-200);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--body-dark);
+  font-family: var(--paragraph-paragraph-16-bold);
+}
+@media screen and (max-width: 750px) {
+  .right {
+    gap: var(--gap-29xl);
+  }
+}
